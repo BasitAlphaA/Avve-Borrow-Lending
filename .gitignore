@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Hardhat build files
+artifacts/
+cache/
+typechain/
+coverage/
+
+# Environment variables
+.env
+
+# MacOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Logs
+logs/
+*.log
+*.tlog
+*.out
+
+# Hardhat generated files
+*.dbg.json
+
+# Yarn
+.yarn-integrity
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Optional: Ignore package-lock.json if you're using Yarn
+package-lock.json
