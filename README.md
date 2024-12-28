@@ -57,7 +57,7 @@ npm install --global yarn
 ## Quickstart
 
 ```bash
-git clone https://github.com/your-github-username/your-repo-name
+git clone git@github.com:BasitAlphaA/Avve-Borrow-Lending.git
 cd your-repo-name
 yarn
 ```
